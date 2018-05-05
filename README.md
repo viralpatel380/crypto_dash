@@ -29,6 +29,12 @@
 
 * 🎉 <strong>Live: </strong> Deployed with [Firebase](https://firebase.google.com/) and secured with [Cloudflare](https://www.cloudflare.com/)
 
+## Demo
+[CryptoDash](https://cryptodash-1.firebaseapp.com/)
+
+<div align="center">
+  <img src="http://i.imgur.com/whG5KNE.png"/>
+</div>
 
 ### Locally using npm
 * Clone/download the repo
