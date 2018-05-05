@@ -15,6 +15,7 @@
 
 <p>✨ <strong>CryptoDash</strong> is a real-time dashboard that displays the top 10 cryptocurrencies based on currency price, market captilization and overall circulating supply. ✨</p>
 
+<p><a href="https://cryptodash-1.firebaseapp.com/" class="btn btn-primary btn-md">Launch App</a></p>
 </div>
 
 ## Features
@@ -26,7 +27,7 @@
 
 * 📱 <strong>Responsive: </strong> Made mobile responsive with [Bulma](http://bulma.io/) and [SASS](http://sass-lang.com/)
 
-* 🎉 <strong>Live: </strong> Deployed with [Heroku](https://www.heroku.com/) and secured with [Cloudflare](https://www.cloudflare.com/)
+* 🎉 <strong>Live: </strong> Deployed with [Firebase](https://firebase.google.com/) and secured with [Cloudflare](https://www.cloudflare.com/)
 
 
 ### Locally using npm
