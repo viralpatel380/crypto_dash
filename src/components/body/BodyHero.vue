@@ -97,7 +97,7 @@ $large: 1024px;
   background-color: initial;
   position: relative;
   cursor: pointer;
-  box-shadow: 0 0 50px 5px rgba(0,0,0,.25);
+  box-shadow: 0 0 50px 5px rgba(0, 0, 0, 0.616);
 
   @media screen and (max-width: $medium) {
     max-width: 300px;

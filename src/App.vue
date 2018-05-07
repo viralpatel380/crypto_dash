@@ -39,7 +39,7 @@ html, body {
 }
 
 .is-success {
-  background: #333;
+  background: rgb(255, 255, 255);
   background: -webkit-linear-gradient(left top, #024, #402);
   background: -moz-linear-gradient(bottom right, #024, #402);
   background: linear-gradient(to bottom right, #024, #402);
