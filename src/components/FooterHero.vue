@@ -2,7 +2,7 @@
   <div class="hero-foot">
     <footer class="footer">
       <div class="mobile-footer">
-        <div class="made-by" :class="{'hide': isOpenedInIFrame}">Made by <a href="https://github.com/viralpatel380" target="_blank">Viral Patel</a> | <icon name="calendar" height="12"></icon> 2018</div>
+        <div class="made-by" :class="{'hide': isOpenedInIFrame}">Handicrafted by <a href="https://peppersalts.in" target="_blank">Peppersalts Studio</a> | <icon name="calendar" height="12"></icon> 2018</div>
        
       </div>
     
